@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 30,
+      "features": [
+        "Gym access during regular hours",
+        "Towel service",
+        "Locker room access"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium",
+      "price": 50,
+      "features": [
+        "Gym access + additional amenities",
+        "Personal training session",
+        "Sauna + steam room access"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "VIP",
+      "price": 100,
+      "features": [
+        "24/7 gym access + personal training",
+        "Post-workout smoothie",
+        "Private locker + shower"
+      ]
+    }
+  ]
+  
